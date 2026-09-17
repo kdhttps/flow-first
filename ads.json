@@ -17,5 +17,21 @@
             "co.basic": {}
         },
         "name": "co.basic"
+    },
+    "local": {
+        "projectName": "local",
+        "description": "local pro",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/flow-first",
+        "githubUri": "https://github.com/kdhttps/flow-first",
+        "license": "Apache 2",
+        "lastUpdated": "1789646573488",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
     }
 }

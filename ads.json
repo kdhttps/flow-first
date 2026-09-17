@@ -1,1 +1,18 @@
-{}
+{
+    "co.basic": {
+        "projectName": "co.basic",
+        "description": "basic",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/flow-first",
+        "githubUri": "https://github.com/kdhttps/flow-first",
+        "license": "Apache 2",
+        "lastUpdated": "1789630555082",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}

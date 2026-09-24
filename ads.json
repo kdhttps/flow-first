@@ -33,8 +33,7 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "co.basic": {},
-            "co.boss": {}
+            "co.basic": {}
         },
         "name": "local"
     }
